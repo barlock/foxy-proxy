@@ -1,0 +1,14 @@
+{
+  "name": "foxy-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Everything",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Michael Barlock",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
